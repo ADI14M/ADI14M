@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1200&color=6366F1¢er=true&vCenter=true&width=650&lines=I+build+AI+apps+that+actually+ship;FastAPI+·+React+·+GPT-4+·+AWS;MSc+Financial+Data+Science+%40+Surrey+🇬🇧)](https://github.com/ADI14M)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aditya-m-5200b0242/)
 [![Email](https://img.shields.io/badge/Email-Reach+out-EA4335?style=flat-square&logo=gmail)](mailto:adityamsharma2010@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111?style=flat-square&logo=vercel)]([https://YOUR-PORTFOLIO](https://updated-resume-aditya-m.vercel.app/#))
 [![Views](https://komarev.com/ghpvc/?username=ADI14M&style=flat-square&color=6366F1)](https://github.com/ADI14M)
